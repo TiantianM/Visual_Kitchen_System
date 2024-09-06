@@ -1,4 +1,4 @@
-# Pantry Pal 
+# Visual Kitchen Management System
 
 Our project goal is to create a user-friendly website that helps users organize the food in their fridges and provide personalized recipe recommendations. Also, suggests meals based on user preferences and their previous choice. These features make meal planning easier and reduce food waste, offering a more efficient and enjoyable kitchen experience.
 
