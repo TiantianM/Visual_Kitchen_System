@@ -15,7 +15,7 @@ Our project goal is to create a user-friendly website that helps users organize 
 - Image Recognition: Our website leverages AWS Rekognition to allow users to add ingredients to their virtual fridge by taking quick snapshots or uploading images of the ingredients. This image recognition feature makes it quick and easy to upload food data without manual entry, enabling a smoother user experience. It enhances the speed and accuracy of adding ingredients, helping to keep your virtual fridge up-to-date with minimal effort.
 - User Registration and Login: Our website offers a seamless registration and login process. Users can create an account to access personalized features like a virtual fridge and tailored recipe recommendations. Our JWT authentication ensures secure user login and registration.
 
-## Authors
+## Authors (Alphabetical order of first names)
 - Calla Gong (calla.gong@emory.edu)
 - Haoyuan Lu (louis.lu@emory.edu)
 - Indy Gu (indy.gu@emory.edu)
